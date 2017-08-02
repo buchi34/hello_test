@@ -1,7 +1,7 @@
 # hello_test
 For testing purposes at ARCC
 
-echo __"hello world!"__
+echo __"hello world! changed "__
 
 ### a smaller header
 
