@@ -1,8 +1,8 @@
 # hello_test
 For testing purposes at ARCC
 
-echo__"hello world!"__
+echo __"hello world!"__
 
-##a smaller header
+### a smaller header
 
 new line change
